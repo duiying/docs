@@ -2,7 +2,7 @@
 
 ### commit规范
 
-基本格式：<type>: <subject>  
+基本格式：type: subject  
 
 type 用于说明 commit 的类别，只允许使用下面 7 个标识。  
 
