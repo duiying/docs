@@ -28,7 +28,8 @@
 
 - 中间件
   - [防重放](markdown/防重放.md)
-  - [操作日志](markdown/操作日志.md)
+  - [后台操作日志](markdown/后台操作日志.md)
+  - [后台权限管理](markdown/后台权限管理.md)
 
 - 经验总结
   - [服务拆分](markdown/服务拆分.md)
